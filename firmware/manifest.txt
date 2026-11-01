@@ -1,0 +1,6 @@
+AEVAS-OTA-1
+2
+AEVAS-ESP32-WROOM32-v1
+1936960
+ae0eafd74b5aae013d5a0a44441c216f2931c3dbc06cb3ca56e7c927d1c3dadd
+firmware_v2.bin
